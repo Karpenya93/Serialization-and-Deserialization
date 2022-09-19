@@ -1,0 +1,15 @@
+E:\project\my-project\Serialization and deseralizaion\bin\Debug\net6.0\Serialization and deseralizaion.exe
+E:\project\my-project\Serialization and deseralizaion\bin\Debug\net6.0\Serialization and deseralizaion.deps.json
+E:\project\my-project\Serialization and deseralizaion\bin\Debug\net6.0\Serialization and deseralizaion.runtimeconfig.json
+E:\project\my-project\Serialization and deseralizaion\bin\Debug\net6.0\Serialization and deseralizaion.dll
+E:\project\my-project\Serialization and deseralizaion\bin\Debug\net6.0\Serialization and deseralizaion.pdb
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.csproj.AssemblyReference.cache
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.AssemblyInfoInputs.cache
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.AssemblyInfo.cs
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.csproj.CoreCompileInputs.cache
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.dll
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\refint\Serialization and deseralizaion.dll
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.pdb
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\Serialization and deseralizaion.genruntimeconfig.cache
+E:\project\my-project\Serialization and deseralizaion\obj\Debug\net6.0\ref\Serialization and deseralizaion.dll
